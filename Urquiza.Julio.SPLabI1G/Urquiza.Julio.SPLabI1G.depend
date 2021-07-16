@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1625530337 source:c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625525735 c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\linkedlist.h
+
+1625531957 source:c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+
+1625526885 c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\pais.h
+	"LinkedList.h"
+
+1625507612 source:c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\validaciòn.c
+	"Validaciòn.h"
+
+1624304021 c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\validaciòn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1625530551 source:c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+
+1625523016 c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\parser.h
+	"LinkedList.h"
+
+1625531516 source:c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciòn.h"
+	"controller.h"
+	<time.h>
+
+1625526885 c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\controller.h
+	"LinkedList.h"
+
+1625525042 source:c:\users\julio cesar urquiza\documents\utn\urquiza.julio.splabi1g\urquiza.julio.splabi1g\urquiza.julio.splabi1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"pais.h"
+
